@@ -1,3 +1,4 @@
+
 # Angular2Project
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
@@ -29,3 +30,9 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Project-Management-App---Built-with-angular-2
+
+This is a project i built as i learnt this new framework - Angular 2 <br>
+View it here.....https://3tor.github.io/Project-Management-App---Built-with-angular-2/
+
