@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Etor Product Management System Using Angular 2';
+  title = 'Product Management System Using Angular 2';
 }

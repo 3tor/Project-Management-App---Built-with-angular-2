@@ -10,6 +10,7 @@ export class ProductListComponent {
     imageWidth: number = 100;
     imageMargin: number = 50;
     showImage: boolean = false;
+    listFilter: string = 'cart';
     products: any[] = [
         {
             "productId": 1,
@@ -32,4 +33,8 @@ export class ProductListComponent {
             "imageUrl": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
         }
     ];
+
+    toggleImage(): void {
+        this.showImage = !this.showImage;
+    }
 }
